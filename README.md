@@ -1,4 +1,4 @@
-# Juridik Nära
+# Livsklart
 
 Responsiv svensk webbmockup för testamente och äktenskapsförord. Byggd utan beroenden med HTML, CSS och JavaScript.
 
